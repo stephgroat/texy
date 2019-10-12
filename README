@@ -1,4 +1,7 @@
 TeXy README
+
+C-Like programming language compiler using OCaml for the compiler language.
+
 seg2181, zh2312, xz2432, tmp2133 -> *@Columbia.edu
 
 This deliverable was tested using Ubuntu 16.04 and LLVM 3.8
